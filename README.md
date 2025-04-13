@@ -102,259 +102,323 @@ All other 49 member states not listed as suspended are designated with `status: 
 [
   {
     "IGO": "AU",
-    "COUNTRY_EN": "People's Democratic Republic of Algeria",
+    "COUNTRY_EN": "People's Dem. Rep. of Algeria",
     "ISO_A3": "DZA",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Benin",
     "ISO_A3": "BEN",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": "Founding name: Dahomey [2]"
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Accurate - formerly Dahomey",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Burkina Faso",
     "ISO_A3": "BFA",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": "Founding name: Upper Volta [2]"
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Accurate - formerly Upper Volta",
+    "currentlySuspended": true
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Burundi",
     "ISO_A3": "BDI",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Cameroon",
     "ISO_A3": "CMR",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Central African Republic",
     "ISO_A3": "CAF",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Chad",
     "ISO_A3": "TCD",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of the Congo",
     "ISO_A3": "COG",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": "Founding name: Congo (Brazzaville) [3]"
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Accurate - founding name Congo (Brazzaville)",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Democratic Republic of the Congo",
     "ISO_A3": "COD",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": "Founding name: Congo (Leopoldville) [3]"
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Accurate - founding name Congo (Leopoldville)",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Côte d'Ivoire",
     "ISO_A3": "CIV",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": "Founding name: Ivory Coast [2]"
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Accurate - formerly Ivory Coast",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Arab Republic of Egypt",
     "ISO_A3": "EGY",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": "Founding note: Part of United Arab Republic [3]"
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Accurate context - part of UAR before OAU founding",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
-    "COUNTRY_EN": "Federal Democratic Republic of Ethiopia",
+    "COUNTRY_EN": "Federal Dem. Republic of Ethiopia",
     "ISO_A3": "ETH",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Gabonese Republic",
     "ISO_A3": "GAB",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": true
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Ghana",
     "ISO_A3": "GHA",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Guinea",
     "ISO_A3": "GIN",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": true
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Liberia",
     "ISO_A3": "LBR",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Libya",
     "ISO_A3": "LBY",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Madagascar",
     "ISO_A3": "MDG",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": "Founding name: Malagasy Republic [16]"
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Accurate - formerly Malagasy Republic",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Mali",
     "ISO_A3": "MLI",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": true
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Islamic Republic of Mauritania",
     "ISO_A3": "MRT",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Kingdom of Morocco",
     "ISO_A3": "MAR",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": "Withdrew 1984, Rejoined 2017"
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963 / 2017-01-31",
+    "membershipNotes": "Accurate - Withdrew 1984, Rejoined 2017",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of the Niger",
     "ISO_A3": "NER",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": true
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Federal Republic of Nigeria",
     "ISO_A3": "NGA",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Rwanda",
     "ISO_A3": "RWA",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Senegal",
     "ISO_A3": "SEN",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Sierra Leone",
     "ISO_A3": "SLE",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Federal Republic of Somalia",
     "ISO_A3": "SOM",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of the Sudan",
     "ISO_A3": "SDN",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": true
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "United Republic of Tanzania",
     "ISO_A3": "TZA",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": "Founding note: Tanganyika signed [2]"
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Accurate - Tanganyika signed",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Togolese Republic",
     "ISO_A3": "TGO",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Tunisia",
     "ISO_A3": "TUN",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   },
   {
     "IGO": "AU",
     "COUNTRY_EN": "Republic of Uganda",
     "ISO_A3": "UGA",
-    "status": "member",
-    "joinDate": null,
-    "membershipNotes": null
+    "reportedStatus": "member",
+    "confirmedAUMember": true,
+    "joinDate": "1963-05-25",
+    "membershipNotes": "Null in data",
+    "currentlySuspended": false
   }
 ]
 ```
